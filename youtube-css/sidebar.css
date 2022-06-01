@@ -1,0 +1,15 @@
+.side-bar {
+  display: flex;
+  width: 75px;
+  flex-direction: column;
+  position: fixed;
+  row-gap: 20px;
+  background-color: white;
+  border-right-style: solid;
+  border-right-color: rgb(217, 211, 211);
+  border-right-width: 1px;
+}
+.home-button,
+.subscription-button {
+  height: 40px;
+}
